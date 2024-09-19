@@ -22,8 +22,11 @@ Game Flow
 Example Output:
 - Welcome to the Snake Water Gun Game!
 - Choose one: Snake (S), Water (W), Gun (G)
+
 Player's choice: S
+
 Computer's choice: G
+
 Computer wins! Gun kills Snake.
 
 - Score: Player - 0 | Computer - 1
